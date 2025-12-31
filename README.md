@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on DATA SCIENTIST<br>I'm a DATA SCIENTIST INTER <br>I'm looking for help to get a job <br>I'm currently learning Data Science, SQL, Python, ML, DL,HTML,CSS etc.<br>Any questions message me<br>
+I'm currently working on DATA SCIENTIST<br>I'm a DATA SCIENTIST INTERN <br>I'm looking for help to get a job <br>I'm currently learning Data Science, SQL, Python, ML, DL,HTML,CSS etc.<br>Any questions message me<br>
 
 
 ## 🌐 Socials:
